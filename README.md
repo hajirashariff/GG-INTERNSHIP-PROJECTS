@@ -20,28 +20,6 @@ GG-INTERNSHIP-PROJECTS/
     ├── uber_gradient_boosting_model.pkl    # Serialized final optimized Gradient Boosting model
     └── P3-Assessment-HAJIRA_SHARIFF.pdf    # Final assessment report for Uber fare prediction
 
-```markdown
-# GG Internship Projects 🚀
-
-Welcome to my AI-Powered Machine Learning Internship project portfolio! This repository showcases my hands-on implementation of machine learning models, exploratory data analysis (EDA), unsupervised clustering pipelines, and predictive regression systems. Each project is accompanied by a comprehensive technical assessment report.
-
----
-
-## 📁 Repository File Structure
-
-```text
-GG-INTERNSHIP-PROJECTS/
-├── README.md                               # Main repository overview and documentation
-├── Project-1-IMDb-Movies/
-│   ├── imdb_eda_analysis.ipynb             # Jupyter Notebook for IMDb data cleaning and EDA
-│   └── P1-Assessment-HAJIRA_SHARIFF.pdf    # Final assessment report for IMDb analysis
-├── Project-2-Customer-Segmentation/
-│   ├── customer_segmentation.ipynb         # Jupyter Notebook for K-Means clustering and scaling
-│   └── P2_Assessment_Hajira-Shariff.pdf    # Final assessment report for customer segmentation
-└── Project-3-Uber-Fare-Prediction/
-    ├── uber_fare_prediction.ipynb          # Jupyter Notebook for model benchmarking and tuning
-    ├── uber_gradient_boosting_model.pkl    # Serialized final optimized Gradient Boosting model
-    └── P3-Assessment-HAJIRA_SHARIFF.pdf    # Final assessment report for Uber fare prediction
 
 ```
 
